@@ -1,0 +1,104 @@
+[
+  {
+    "step": 1,
+    "action": "J: Analyze Job Posting",
+    "description": "Parse the job description to extract and summarize key requirements, responsibilities, and qualifications to address.",
+    "output": ""
+  },
+  {
+    "step": 2,
+    "action": "R: Resume Keyword Optimization",
+    "description": "Incorporate keywords and phrases from the job posting into your resume and online profiles to strengthen the match.",
+    "output": ""
+  },
+  {
+    "step": 3,
+    "action": "RI: Ideal Resume Keyword Targeting",
+    "description": "Identify the keywords and phrases most likely to resonate with the employer and integrate them naturally into your resume.",
+    "output": ""
+  },
+  {
+    "step": 4,
+    "action": "D: Define Your Differentiators",
+    "description": "Identify your key selling points, including qualifications, experience, skills, achievements, qualities, values, and fit.",
+    "output": ""
+  },
+  {
+    "step": 5,
+    "action": "Q: Qualification Mapping",
+    "description": "Compare your qualifications against job requirements to identify strengths to emphasize and gaps to address.",
+    "output": ""
+  },
+  {
+    "step": 6,
+    "action": "E: Relevant Experience Mapping",
+    "description": "Evaluate how your work history, accomplishments, and projects demonstrate the skills and qualifications needed.",
+    "output": ""
+  },
+  {
+    "step": 7,
+    "action": "C: Technical/Core Skill Mapping",
+    "description": "Assess your proficiency in the required technical and functional skills, identifying key strengths.",
+    "output": ""
+  },
+  {
+    "step": 8,
+    "action": "O: Craft Your Candidate Narrative",
+    "description": "Develop a concise, compelling professional summary showcasing your qualifications, experience, and skills for the role.",
+    "output": ""
+  },
+  {
+    "step": 9,
+    "action": "P: Key Achievement Mapping",
+    "description": "Select your most impressive, relevant accomplishments, contributions, and success metrics from current and past roles.",
+    "output": ""
+  },
+  {
+    "step": 10,
+    "action": "JI: Ideal Candidate Analysis",
+    "description": "Analyze the posting to define what the employer's ideal candidate offers in terms of qualifications, skills, and experience.",
+    "output": ""
+  },
+  {
+    "step": 11,
+    "action": "DI: Develop Ideal Candidate Persona",
+    "description": "Position yourself as the ideal candidate, emphasizing your most relevant and impressive qualifications, experience, skills, and attributes.",
+    "output": ""
+  },
+  {
+    "step": 12,
+    "action": "QI: Qualification Bolstering",
+    "description": "Pinpoint additional qualifications, certifications, or credentials that could further strengthen your perceived fit for the role.",
+    "output": ""
+  },
+  {
+    "step": 13,
+    "action": "EI: Experience Reframing",
+    "description": "Identify transferable skills and reframe past experience to maximize relevance and impact for this opportunity.",
+    "output": ""
+  },
+  {
+    "step": 14,
+    "action": "CI: Technical/Core Skill Highlighting",
+    "description": "Determine the best way to showcase your command of necessary hard skills, using strong examples from your experience.",
+    "output": ""
+  },
+  {
+    "step": 15,
+    "action": "PI: Key Achievement Highlighting",
+    "description": "Brainstorm accomplishments most likely to grab the employer's attention and reinforce your fit, and how best to present them.",
+    "output": ""
+  },
+  {
+    "step": 16,
+    "action": "Customize Your Resume",
+    "description": "Tailor your resume to align with the specific job requirements and company culture, ensuring maximum relevance and impact.",
+    "output": ""
+  },
+  {
+    "step": 17,
+    "action": "Write Custom Cover Letter",
+    "description": "Craft a personalized cover letter highlighting your motivation, qualifications, and fit for the position, tailored to the company and role.",
+    "output": ""
+  }
+]
